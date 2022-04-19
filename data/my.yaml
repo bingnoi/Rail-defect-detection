@@ -1,0 +1,6 @@
+path: ./dataset  # dataset root dir
+train: images/  # train images (relative to 'path') 128 images
+val: images/
+
+nc: 1  # number of classes
+names: [ 'neg' ]  # class names
